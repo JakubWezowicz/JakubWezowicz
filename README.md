@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob
-- 👀 I’m interested in web development1
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript, ReactJS
 - 💞️ I’m looking to collaborate on a bigger website project.
 
