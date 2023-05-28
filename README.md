@@ -1,6 +1,6 @@
-## 👋 Cześć, jestem Jakub Wężowicz.
+### 👋 Cześć, jestem Jakub Wężowicz.
 
-Jestem pasjonatem front-endu z silnym zamiłowaniem do tworzenia interaktywnych i responsywnych interfejsów użytkownika. Mam [3 lata] doświadczenia w branży i stale rozwijam swoje umiejętności, aby być na bieżąco z najnowszymi technologiami i trendami w świecie front-endu.
+Jestem pasjonatem front-endu z silnym zamiłowaniem do tworzenia interaktywnych i responsywnych interfejsów użytkownika. Mam 3 lata doświadczenia w branży i stale rozwijam swoje umiejętności, aby być na bieżąco z najnowszymi technologiami i trendami w świecie front-endu.
 
 ### 📚 Umiejętności
 
