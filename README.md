@@ -1,4 +1,4 @@
-## Cześć! Jestem [Jakub Wężowicz].
+## Cześć! Jestem Jakub Wężowicz.
 
 Jestem pasjonatem front-endu z silnym zamiłowaniem do tworzenia interaktywnych i responsywnych interfejsów użytkownika. Mam [3 lata] doświadczenia w branży i stale rozwijam swoje umiejętności, aby być na bieżąco z najnowszymi technologiami i trendami w świecie front-endu.
 
@@ -24,4 +24,4 @@ Jeśli masz pytania, jesteś zainteresowany współpracą lub po prostu chcesz p
 
 ### Kontakt
 
-- E-mail: [kuba.wezowicz@gmail.com]
+- E-mail: kuba.wezowicz@gmail.com
