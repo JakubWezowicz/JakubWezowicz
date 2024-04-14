@@ -6,7 +6,7 @@ IT student
 
 * 🌍  I'm based in Gliwice, Poland
 * ✉️  You can contact me at [kuba.wezowicz@gmail.com](mailto:kuba.wezowicz@gmail.com)
-* 🧠  I'm learning Golang
+* 🧠  I'm currently learning Golang
 
 ### Skills
 
